@@ -1,6 +1,6 @@
 # github_flutter
 
-A new Flutter project.
+Github App written in Flutter
 
 ## Getting Started
 
